@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio 1</string>
+    <string name="label_name">Su nombre</string>"
+    <string name="hint_name">Ingresa tu nombre</string>
+    <string name="label_consonants">Consonantes</string>
+    <string name="label_vowels">Vocales</string>
+    <string name="btn_process">Procesar</string>
+    <string name="btn_exit">Salir</string>
+    <string name="hint_result">Cantidad de consonantes y vocales</string>
+</resources>
