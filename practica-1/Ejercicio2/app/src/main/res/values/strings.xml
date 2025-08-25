@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <string name="label_ci">Carnet</string>
+    <string name="label_code">Código Generado</string>
+    <string name="hint_ci">Ingrese su carnet</string>
+    <string name="btn_process">Procesar</string>
+    <string name="btn_exit">Salir</string>
+</resources>
