@@ -20,7 +20,7 @@ class SecondActivity : AppCompatActivity() {
         val tvCarnetInvertido = findViewById<TextView>(R.id.tvCarnetInvertido)
         val tvNombreIntercambiado = findViewById<TextView>(R.id.tvNombreIntercambiado)
 
-        val name = intent.getStringExtra("name") ?: ""
+        val name = intent.getStringE    xtra("name") ?: ""
         val ci = intent.getStringExtra("ci")
         val carnetInvertido = ci?.reversed()
 
